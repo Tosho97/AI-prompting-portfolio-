@@ -37,7 +37,7 @@
 * **The Task:** Evaluate an image generated from the prompt: "A professional woman from Ilorin, working on a business plan."
 * **AI Output (The Error):** Major anatomical hallucination. The subject’s left hand has **six fingers**.
 
-![Anatomical Hallucination - Six Fingers](Screenshot_20260504_092036_Gallery.png)
+![](Screenshot_20260504_092036_Gallery.jpg)
 
 * **My Action:** Flagged as **"Major Logical Defect (Anatomy)."** Provided rationale that this violates Ground Truth human geometry.
 * **Skill Demonstrated:** Visual QC, Logic Deconstruction, and Technical Rationale Reporting.
