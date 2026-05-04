@@ -30,3 +30,14 @@
 * **My Evaluation:** Failed Persona. The AI used "low-signal" language and didn't provide actionable, professional insights.
 * **My Correction:** "SME mortality in the region is often tied to **infrastructure-induced overhead** (power/logistics), **low credit accessibility**, and **informal accounting practices**. Success requires a pivot toward a 'Lean Startup' methodology to manage volatile cash flows."
 * **Skill Demonstrated:** Prompt Engineering and Domain Expertise in Business Theory.
+---
+
+## Project 5: Visual Data Quality Assurance (VQA)
+* **Goal:** Audit AI-generated imagery for anatomical accuracy and adherence to Ground Truth rules.
+* **The Task:** Evaluate an image generated from the prompt: "A professional woman from Ilorin, working on a business plan."
+* **AI Output (The Error):** Major anatomical hallucination. The subject’s left hand has **six fingers**.
+
+![Anatomical Hallucination - Six Fingers](Screenshot_20260504_092036_Gallery.png)
+
+* **My Action:** Flagged as **"Major Logical Defect (Anatomy)."** Provided rationale that this violates Ground Truth human geometry.
+* **Skill Demonstrated:** Visual QC, Logic Deconstruction, and Technical Rationale Reporting.
